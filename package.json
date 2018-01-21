@@ -1,0 +1,16 @@
+{
+  "name": "proxy-interceptor",
+  "version": "1.0.0",
+  "description": "Proxy Interceptor ",
+  "main": "proxy-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon proxy-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "request": "^2.83.0"
+  }
+}
